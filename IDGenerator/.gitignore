@@ -1,0 +1,8 @@
+
+bin
+obj
+*.vsmdi
+*.xsc
+*.xss
+*.settings
+Debug
